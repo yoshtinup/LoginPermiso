@@ -1,0 +1,58 @@
+.App2 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .App-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #5D4C46; /* Dark Brown */
+    padding: 10px 20px;
+  }
+  
+  .contact-info {
+    color: #FFF;
+  }
+  
+  .App-nav a {
+    color: #FFF;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .App-nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .App-main2 {
+    background-color: #7EA5F1; /* Light Yellow */
+    padding: 200px 30px;
+  }
+  
+  .App-main2 h1 {
+    color: #333;
+  }
+  
+  .App-footer2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #7EA5F1;
+  }
+  
+  .footer-item2 {
+    width: 30%;
+    background-color: #EAEDED; /* Light Grey */
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .footer-item2 h3 {
+    color: #27AE60; /* Green */
+  }
+  
+  .footer-item p {
+    color: #333;
+  }
+  

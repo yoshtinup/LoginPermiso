@@ -1,0 +1,53 @@
+.contenUser {
+    background-color: #87CEEB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.form-container {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-container img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 5px solid #1E90FF;
+}
+.form-container input[type="text"],
+.form-container input[type="password"],
+.form-container input[type="date"],
+.form-container input[type="button"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.form-container input[type="button"] {
+    cursor: pointer;
+}
+.form-container .btn-agregar {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+.form-container .btn-ver {
+    background-color: #1E90FF;
+    color: white;
+    border: none;
+}
+.form-container .row2 {
+    display: flex;
+    
+}
+.form-container .row2 input[type="text"] {
+    width: 30%;
+}

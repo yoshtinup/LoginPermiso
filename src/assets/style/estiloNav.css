@@ -1,0 +1,58 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .App-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #5D4C46; /* Dark Brown */
+    padding: 10px 20px;
+  }
+  
+  .contact-info {
+    color: #000000;
+  }
+  
+  .App-nav a {
+    color: #000000;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .App-nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .App-main {
+    background-color: #4ea8d8; /* Light Yellow */
+    padding: 200px 30px;
+  }
+  
+  .App-main h1 {
+    color: #333;
+  }
+  
+  .App-footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #EBC230;
+  }
+  
+  .footer-item {
+    width: 30%;
+    background-color: #EAEDED; /* Light Grey */
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .footer-item h3 {
+    color: #27AE60; /* Green */
+  }
+  
+  .footer-item p {
+    color: #090909;
+  }
+  
